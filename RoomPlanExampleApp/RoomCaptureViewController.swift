@@ -11,7 +11,7 @@ import RoomPlan
 class RoomCaptureViewController: UIViewController, RoomCaptureViewDelegate, RoomCaptureSessionDelegate {
     
     @IBOutlet var exportButton: UIButton?
-    
+    //change
     @IBOutlet var doneButton: UIBarButtonItem?
     @IBOutlet var cancelButton: UIBarButtonItem?
     @IBOutlet var activityIndicator: UIActivityIndicatorView?
