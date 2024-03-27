@@ -22,7 +22,7 @@ class RoomCaptureViewController: UIViewController, RoomCaptureViewDelegate, Room
     private var roomCaptureView: RoomCaptureView!
     private var roomCaptureSessionConfig: RoomCaptureSession.Configuration = RoomCaptureSession.Configuration()
     
-    private var finalResults: CapturedRoom?
+    private var finalBigResults: CapturedRoom?
     
     override func viewDidLoad() {
         super.viewDidLoad()
