@@ -12,7 +12,7 @@ class RoomCaptureViewController: UIViewController, RoomCaptureViewDelegate, Room
     
     @IBOutlet var exportButton: UIButton?
     //change
-    //Uzair Comment1
+    //Uzair Comment2 
     //Something else
     @IBOutlet var doneButton: UIBarButtonItem?
     @IBOutlet var cancelButton: UIBarButtonItem?
