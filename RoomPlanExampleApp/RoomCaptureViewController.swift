@@ -14,6 +14,9 @@ class RoomCaptureViewController: UIViewController, RoomCaptureViewDelegate, Room
     //change
     //Uzair Comment2 
     //Something else
+    //New comment (Maryam) hgjg
+    //Mar branch
+    //nlfcnd
     @IBOutlet var doneButton: UIBarButtonItem?
     @IBOutlet var cancelButton: UIBarButtonItem?
     @IBOutlet var activityIndicator: UIActivityIndicatorView?
